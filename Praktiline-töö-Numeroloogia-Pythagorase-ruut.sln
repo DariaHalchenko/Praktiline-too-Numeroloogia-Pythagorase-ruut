@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Praktiline-töö-Numeroloogia-Pythagorase-ruut", "Praktiline-töö-Numeroloogia-Pythagorase-ruut.pyproj", "{86757A28-1015-4B9E-857B-2EE64FA8FBBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3265F534-F35F-4CAC-B53C-B5D0ACBF3731}"
+	ProjectSection(SolutionItems) = preProject
+		andmeid.txt = andmeid.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86757A28-1015-4B9E-857B-2EE64FA8FBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86757A28-1015-4B9E-857B-2EE64FA8FBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5EB2C6-6452-424B-8934-92FA21382ABB}
+	EndGlobalSection
+EndGlobal
